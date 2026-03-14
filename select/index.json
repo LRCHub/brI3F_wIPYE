@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "テルーの唄",
+  "base_artist": "Little Glee Monster",
+  "createdAt": "2026-03-14T05:48:06.499588Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "テルーの唄",
+      "artist": "Aoi Teshima",
+      "has_synced": false,
+      "path": "select/01_テルーの唄_Aoi_Teshima.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "テルーの唄",
+      "artist": "All That Jazz",
+      "has_synced": false,
+      "path": "select/02_テルーの唄_All_That_Jazz.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "テルーの唄 - ゲド戦記",
+      "artist": "Carl Orrje Piano Ensemble",
+      "has_synced": false,
+      "path": "select/03_テルーの唄_-_ゲド戦記_Carl_Orrje_Piano_Ensemble.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "テルーの唄 (劇中挿入歌 / ゲド戦記)",
+      "artist": "いさ",
+      "has_synced": false,
+      "path": "select/04_テルーの唄_(劇中挿入歌___ゲド戦記)_いさ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "テルーの唄『ゲド戦記』より",
+      "artist": "Nitsua",
+      "has_synced": false,
+      "path": "select/05_テルーの唄『ゲド戦記』より_Nitsua.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "テルーの唄",
+      "artist": "hico the kid",
+      "has_synced": false,
+      "path": "select/06_テルーの唄_hico_the_kid.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "テルーの唄(ゲド戦記)",
+      "artist": "AUN J クラシック・オーケストラ",
+      "has_synced": false,
+      "path": "select/07_テルーの唄(ゲド戦記)_AUN_J_クラシック・オーケストラ.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "テルーの唄 (「ゲド戦記」より)",
+      "artist": "AUN J クラシック・オーケストラ",
+      "has_synced": false,
+      "path": "select/08_テルーの唄_(「ゲド戦記」より)_AUN_J_クラシック・オーケストラ.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "テルーの唄",
+      "artist": "Meja",
+      "has_synced": true,
+      "path": "select/09_テルーの唄_Meja.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "テルーの唄",
+      "artist": "大竹 英二",
+      "has_synced": false,
+      "path": "select/10_テルーの唄_大竹_英二.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "テルーの唄",
+      "artist": "大竹英二",
+      "has_synced": false,
+      "path": "select/11_テルーの唄_大竹英二.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "テルーの唄(ゲド戦記)",
+      "artist": "手嶌葵",
+      "has_synced": true,
+      "path": "select/12_テルーの唄(ゲド戦記)_手嶌葵.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "テルーの唄",
+      "artist": "手嶌葵",
+      "has_synced": true,
+      "path": "select/13_テルーの唄_手嶌葵.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "テルーの唄",
+      "artist": "AUN J クラシック・オーケストラ",
+      "has_synced": false,
+      "path": "select/14_テルーの唄_AUN_J_クラシック・オーケストラ.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "テルーの唄",
+      "artist": "手嶌葵",
+      "has_synced": true,
+      "path": "select/15_テルーの唄_手嶌葵.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "テルーの唄(ゲド戦記)",
+      "artist": "Aoi Teshima",
+      "has_synced": true,
+      "path": "select/16_テルーの唄(ゲド戦記)_Aoi_Teshima.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "テルーの唄",
+      "artist": "Eri Takenaka",
+      "has_synced": true,
+      "path": "select/17_テルーの唄_Eri_Takenaka.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "テルーの唄 （『ゲド戦記』より）",
+      "artist": "sal",
+      "has_synced": false,
+      "path": "select/18_テルーの唄_(『ゲド戦記』より)_sal.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "テルーの唄",
+      "artist": "竹仲絵里",
+      "has_synced": true,
+      "path": "select/19_テルーの唄_竹仲絵里.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "テルーの唄",
+      "artist": "Little Glee Monster",
+      "has_synced": false,
+      "path": "select/pl_01_テルーの唄_Little_Glee_Monster.txt"
+    }
+  ]
+}
